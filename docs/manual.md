@@ -12,7 +12,7 @@ python rot_polygon.py --sides 4 --radius 2 --into chart.json   # 追加到已有
 python rot_polygon.py --into chart.json --canvas-start 70      # 从第 70 个画布开始（自动补空画布）
 ```
 
-![四联帧：tick 8 / 36 / 64 / 92](example_frames.png)
+
 
 ## 生成方式：全程走库里，不手写 JSON
 
